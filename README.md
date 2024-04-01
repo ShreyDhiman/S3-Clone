@@ -29,7 +29,7 @@ npm start
 
 ## API Documentation
 
-The API documentation is generated using Swagger and can be accessed at `[/api-docs](https://s3-clone.onrender.com/api-docs/)`.
+The API documentation is generated using Swagger and can be accessed at `/api-docs`.
 
 ### Endpoints
 
